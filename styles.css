@@ -112,14 +112,14 @@ body {
     flex-direction: column;
   }
 
-  .content {
+  .page {
     padding: 0 30px;
-    width: 70%;
-    height: 70%;
+    width: 90%;
     margin: auto;
   }
 
   .card {
-    width: 40%;
+    max-width: 380px;
+    width: auto;
   }
 }
