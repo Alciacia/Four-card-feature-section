@@ -114,5 +114,8 @@ body {
 
   .content {
     padding: 0 30px;
+    width: 70%;
+    height: 70%;
   }
+
 }
