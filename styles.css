@@ -116,6 +116,10 @@ body {
     padding: 0 30px;
     width: 70%;
     height: 70%;
+    margin: auto;
   }
 
+  .card {
+    width: 70%;
+  }
 }
