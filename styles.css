@@ -111,4 +111,8 @@ body {
   .columns {
     flex-direction: column;
   }
+
+  .content {
+    margin: auto 30px;
+  }
 }
